@@ -1,0 +1,5 @@
+        {{ cookiecutter.project_name }} change log
+
+        1.0.0 - {% now 'local', '%Y-%m-%d' %}
+
+        * Create new project

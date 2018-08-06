@@ -1,0 +1,7 @@
+{
+    "project_name": "name",
+    "project_short_description": "Short description of the project",
+    "license": "GPLv3",
+    "c_standard": ["99", "90", "11"],
+    "use_cpack": ["n", "y"]
+}
