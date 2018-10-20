@@ -6,7 +6,7 @@
     "author_email": "",
     "c_standard": ["99", "90", "11"],
     "add_installation": "y",
-    "use_cpack": ["n", "y"],
+    "use_cpack": "n",
 	"add_glib": "n",
 	"add_curses": "n"
 }
