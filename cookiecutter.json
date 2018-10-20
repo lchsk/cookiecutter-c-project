@@ -2,6 +2,8 @@
     "project_name": "name",
     "project_short_description": "Short description of the project",
     "license": "GPLv3",
+    "author_name": "",
+    "author_email": "",
     "c_standard": ["99", "90", "11"],
     "use_cpack": ["n", "y"],
 	"add_glib": "n",

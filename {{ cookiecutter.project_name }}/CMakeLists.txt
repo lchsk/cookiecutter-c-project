@@ -27,7 +27,7 @@ endif()
 {% if cookiecutter.use_cpack == 'y' -%}
 # CPack
 
-set(CPACK_PACKAGE_CONTACT "<your email>")
+set(CPACK_PACKAGE_CONTACT "{{ cookiecutter.author_email }}")
 set(CPACK_GENERATOR "DEB;RPM;ZIP;TGZ")
 set(CPACK_PACKAGE_DESCRIPTION, "{{ cookiecutter.project_short_description }}")
 set(CPACK_PACKAGE_VERSION ${PROJECT_VERSION})
