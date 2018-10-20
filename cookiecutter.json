@@ -3,5 +3,7 @@
     "project_short_description": "Short description of the project",
     "license": "GPLv3",
     "c_standard": ["99", "90", "11"],
-    "use_cpack": ["n", "y"]
+    "use_cpack": ["n", "y"],
+	"add_glib": "n",
+	"add_curses": "n"
 }
